@@ -1,0 +1,16 @@
+{
+  "name": "convert_thaiairport_print",
+  "version": "1.0.0",
+  "description": "RC code print log",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "line-by-line": "^0.1.6",
+    "sf": "^0.2.0",
+    "text-table": "^0.2.0"
+  }
+}
